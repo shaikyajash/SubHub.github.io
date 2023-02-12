@@ -1,0 +1,74 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  background:#e1dede2c;
+  border-radius: 7px;
+  padding: 50px;
+  
+}
+
+.box_1{
+  background-image:url(/netflix-logo-png-2574.png);
+  background-size: cover;
+  height: 250px;
+  width:250px;
+  border-radius: 7px;
+  transition: transform 1s ease;
+  
+}
+
+.box_1:hover{
+  transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+.box_3{
+  background-image:url(/Prime_Video-Logo.wine.png);
+  background-size: cover;
+  height:250px;
+  width:350px;
+  border-radius: 7px;
+  transition: transform 1s ease;
+}
+
+.box_3:hover{
+  transform: scale(1.1);
+}
+
+
+
+
+
+.box_4{
+  background-image:url(/Disney+-Logo.wine.png);
+  background-size: cover;
+  height:250px;
+  width:350px;
+  border-radius: 7px;
+  transition: transform 1s ease;
+}
+
+.box_4:hover{
+  transform: scale(1.1);
+}
+
+.box_5{
+  background-image:url(/linkedin-premium-logo.webp);
+  background-size: cover;
+  height:250px;
+  width:500px;
+  border-radius: 7px;
+  transition: transform 1s ease;
+}
+
+.box_5:hover{
+  transform: scale(1.1);
+}
+
